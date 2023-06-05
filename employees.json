@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "salary": 50000,
+      "department": "Engineering"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "salary": 60000,
+      "department": "Marketing"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "salary": 55000,
+      "department": "Sales"
+    },
+    {
+      "id": 4,
+      "name": "Emily Wilson",
+      "salary": 45000,
+      "department": "Human Resources"
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "salary": 70000,
+      "department": "Finance"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Thompson",
+      "salary": 55000,
+      "department": "Design"
+    },
+    {
+      "id": 7,
+      "name": "Alex Johnson",
+      "salary": 65000,
+      "department": "Operations"
+    },
+    {
+      "id": 8,
+      "name": "Jessica Anderson",
+      "salary": 40000,
+      "department": "Customer Service"
+    },
+    {
+      "id": 9,
+      "name": "Mark Davis",
+      "salary": 75000,
+      "department": "Product Management"
+    },
+    {
+      "id": 10,
+      "name": "Laura Moore",
+      "salary": 35000,
+      "department": "Administration"
+    }
+  ]
+}
